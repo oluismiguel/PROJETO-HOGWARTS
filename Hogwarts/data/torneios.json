@@ -1,0 +1,20 @@
+{
+    "45": {
+        "id": "45",
+        "nome": "ASWOAD",
+        "descricao": "Ror",
+        "tipo": "Copa das Casas",
+        "data_inicio": "01\/01\/2000",
+        "data_fim": "03\/01\/2000",
+        "local": "Hogwarts",
+        "status": "Planejado",
+        "desafios": [],
+        "inscricoes": [],
+        "casas_participantes": [
+            "G",
+            "S",
+            "C",
+            "L"
+        ]
+    }
+}
