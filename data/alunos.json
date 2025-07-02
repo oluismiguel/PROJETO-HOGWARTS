@@ -1,0 +1,19 @@
+{
+    "686147f3cdbb8": {
+        "id": "686147f3cdbb8",
+        "nome": "Luis Silva",
+        "nascimento": "12\/09\/1995",
+        "endereco": "Rua PIO 12",
+        "email": "luissilva@gmail.com",
+        "responsaveis": "Anderoson e Maria",
+        "data_cadastro": "29\/06\/2025 16:04:35",
+        "caracteristicas": {
+            "coragem": 1,
+            "ambi\u00e7\u00e3o": 1,
+            "intelig\u00eancia": 1,
+            "lealdade": 1
+        },
+        "casa": "G",
+        "data_selecao": "29\/06\/2025 16:07:29"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "hogwarts/gestao",
+    "description": "Sistema de Gestão de Hogwarts",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
